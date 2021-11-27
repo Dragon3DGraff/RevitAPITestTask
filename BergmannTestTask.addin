@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command BergmannTestTask</Text>
+    <Description>Some description for BergmannTestTask</Description>
+    <Assembly>BergmannTestTask.dll</Assembly>
+    <FullClassName>BergmannTestTask.Command</FullClassName>
+    <ClientId>b38ba68f-44e4-4133-af5c-a16068c82e43</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application BergmannTestTask</Name>
+    <Assembly>BergmannTestTask.dll</Assembly>
+    <FullClassName>BergmannTestTask.App</FullClassName>
+    <ClientId>69ac2784-b145-47db-85f7-8d087c5a7e80</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

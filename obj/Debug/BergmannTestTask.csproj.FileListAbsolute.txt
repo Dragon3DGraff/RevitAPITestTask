@@ -1,0 +1,6 @@
+G:\Programming\BergmannTestTask\bin\Debug\BergmannTestTask.dll
+G:\Programming\BergmannTestTask\bin\Debug\BergmannTestTask.pdb
+G:\Programming\BergmannTestTask\obj\Debug\BergmannTestTask.csprojAssemblyReference.cache
+G:\Programming\BergmannTestTask\obj\Debug\BergmannTestTask.csproj.CoreCompileInputs.cache
+G:\Programming\BergmannTestTask\obj\Debug\BergmannTestTask.dll
+G:\Programming\BergmannTestTask\obj\Debug\BergmannTestTask.pdb
